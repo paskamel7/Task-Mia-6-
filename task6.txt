@@ -1,19 +1,0 @@
-السلام عليكم يا شباب 👋
-يارب تكونوا بخير النهاردة هننقل شوية للhardware و هنتكلم عن موضوع شيق و هو pcb design هنبدأ نصمم دايرة و ننفذها علي altium و هو من أشهر البرامج اللي بنستخدمها في pcb design 
-الموضوع بسيط متقلقوش و أنتوا قدها 💪السيشنز هتمشي معاكم خطوة بخطوة بإذن الله و إحنا معاكم لو فيه أي مشكلة واجهتكم و بالتوفيق يا رب ❤❤ 
-PCB Overview and Circuit Design
-https://youtu.be/iqTiKzZ4MZw
-Altium Fundamentals 
-https://youtu.be/1QZ_tPBW3q8
-Session Slides
-https://docs.google.com/.../1TBqu53fnhWA4zBViGdtK.../edit...
-Additional resources 
-Altium Course for PCB:
-https://education.altium.com/p/home 
-Creating SMD Components:
-https://youtu.be/bOi45nshqP8?si=cZVStEOIpVaGgTlv 
-https://youtu.be/0zlWAwCOKSI?si=jL2c19X58wzpZ58C
-PCB trace design basics:
-https://youtu.be/AKhX8hxZREY?si=JJQY8o5baOoVN_Az 
-PCB design roadmap:
-https://youtu.be/aODkA2mrimQ?si=F2dubmYo5rYDbCze
